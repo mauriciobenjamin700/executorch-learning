@@ -1,9 +1,12 @@
 # Files
 
 test.py
+*.pt
 
 # Folders
 
 .venv/
 .vscode/
 __pycache__/
+
+*_executorch_model/
