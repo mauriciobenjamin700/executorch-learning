@@ -1,7 +1,7 @@
 description: Ultralytics YOLOv8n model trained on coco.yaml
 author: Ultralytics
-date: '2025-12-26T10:50:37.368502'
-version: 8.3.241
+date: '2026-02-17T15:54:13.696694'
+version: 8.4.14
 license: AGPL-3.0 License (https://ultralytics.com/license)
 docs: https://docs.ultralytics.com
 stride: 32
@@ -94,3 +94,4 @@ names:
 args:
   batch: 1
 channels: 3
+end2end: false
